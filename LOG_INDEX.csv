@@ -1,0 +1,243 @@
+line,time,thread,level,pattern,message
+31,00:27:28,main,WARN,P01_missing_modstoml,Mod file C:\Users\Пользователь\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.10\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
+32,00:27:28,main,WARN,P01_missing_modstoml,Mod file C:\Users\Пользователь\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.10\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
+33,00:27:28,main,WARN,P01_missing_modstoml,Mod file C:\Users\Пользователь\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.10\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
+34,00:27:28,main,WARN,P01_missing_modstoml,Mod file C:\Users\Пользователь\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.10\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
+54,00:27:31,main,WARN,P02_trashslot_refmap,Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+59,00:27:31,main,WARN,P03_embeddium_nvidia_workaround,Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+60,00:27:31,main,WARN,P03_embeddium_nvidia_workaround,"This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver."
+63,00:27:32,main,WARN,P04_ipn_dependency_resolving,Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+64,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: de/maxhenkel/easyvillagers/blocks/tileentity/TraderTileentityBase (java.lang.ClassNotFoundException: de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase)
+65,00:27:32,main,WARN,P07_mixin_target_not_found,@Mixin target de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase was not found mixins.ipnext.json:MixinTraderTileEntityBase
+66,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+67,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+68,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+69,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/aocalc/AoCalculator (java.lang.ClassNotFoundException: net.fabricmc.fabric.impl.client.indigo.renderer.aocalc.AoCalculator)
+71,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+72,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+73,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+74,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+75,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+76,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+77,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+78,00:27:32,main,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+79,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+80,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+81,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+82,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+83,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+84,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+85,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+86,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+87,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+88,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+89,00:27:32,main,WARN,P05_oculus_force_disable_mixin,Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+92,00:27:39,Render thread,WARN,P08_assets_url_schema,Assets URL 'union:/C:/Users/Пользователь/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23202!/assets/.mcassetsroot' uses unexpected schema
+93,00:27:39,Render thread,WARN,P08_assets_url_schema,Assets URL 'union:/C:/Users/Пользователь/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23202!/data/.mcassetsroot' uses unexpected schema
+95,00:27:40,Render thread,ERROR,P09_auth_401,Failed to verify authentication
+126,00:27:40,Render thread,WARN,P03_embeddium_nvidia_workaround,Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+127,00:27:40,Render thread,ERROR,P10_embeddium_tainted,Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+128,00:27:40,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability."
+132,00:27:40,Render thread,WARN,P03_embeddium_nvidia_workaround,Enabling secondary workaround for NVIDIA threaded optimizations
+135,00:27:41,Render thread,WARN,P13_shader_custom_images_flag,Found flag CUSTOM_IMAGES
+136,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && MULTICOLORED_BLOCKLIGHT, defaulting to true!"
+137,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+138,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+139,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+140,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+141,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+142,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+143,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+144,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+145,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && MULTICOLORED_BLOCKLIGHT, defaulting to true!"
+146,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+147,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+148,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+149,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1 && !RETRO_FILTER, defaulting to true!"
+150,00:27:41,Render thread,WARN,P12_shader_unknown_option,"Tried to get boolean value for unknown option: 1, defaulting to true!"
+182,00:27:43,modloading-worker-0,WARN,P11_modifying_embeddium_class,"Mod(s) [sodiumoptionsapi, oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability."
+190,00:27:44,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability."
+191,00:27:44,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability."
+192,00:27:44,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability."
+210,00:27:46,Worker-Main-3,WARN,P14_xaero_online_data_expired,io exception while checking patreon: Online mod data expired! Date: Wed Oct 07 13:36:48 MSK 2026
+213,00:27:46,Render thread,WARN,P14_xaero_online_data_expired,io exception while checking versions: Online mod data expired! Date: Wed Oct 07 13:36:48 MSK 2026
+217,00:27:46,Render thread,ERROR,P14_xaero_online_data_expired,io exception while checking versions: Online mod data expired! Date: Wed Oct 07 13:36:48 MSK 2026
+232,00:27:48,Render thread,WARN,P15_missing_sound_event,Missing sound for event: minecraft:item.goat_horn.play
+233,00:27:48,Render thread,WARN,P15_missing_sound_event,Missing sound for event: minecraft:entity.goat.screaming.horn_break
+245,00:27:49,Render thread,WARN,P16_vanilla_shader_missing_sampler,Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+256,00:27:51,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+257,00:27:55,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability."
+258,00:27:56,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.serializers.VertexSerializerRegistryImpl, which may cause instability."
+259,00:28:14,Worker-Main-1,ERROR,P18_http_301,GET request failed. Response Code: 301
+282,00:29:03,Render thread,WARN,P19_ipv6_property,Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+298,00:29:06,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+299,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.RenderSectionManager, which may cause instability."
+300,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.tasks.ChunkBuilderMeshingTask, which may cause instability."
+301,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshFormats, which may cause instability."
+302,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshAttribute, which may cause instability."
+303,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexFormat$Builder, which may cause instability."
+304,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexAttributeFormat, which may cause instability."
+305,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.DefaultChunkRenderer, which may cause instability."
+306,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.ShaderChunkRenderer, which may cause instability."
+307,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.ChunkBuildBuffers, which may cause instability."
+308,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.builder.ChunkMeshBufferBuilder, which may cause instability."
+309,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.buffers.BakedChunkModelBuilder, which may cause instability."
+310,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [sodiumdynamiclights] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess, which may cause instability."
+311,00:29:06,Render thread,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+312,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [sodiumdynamiclights] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache, which may cause instability."
+313,00:29:06,Render thread,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+314,00:29:06,Render thread,WARN,P06_class_not_found_optional,Error loading class: net/fabricmc/fabric/api/blockview/v2/FabricBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.blockview.v2.FabricBlockView)
+315,00:29:06,Render thread,WARN,P06_class_not_found_optional,Error loading class: net/fabricmc/fabric/api/rendering/data/v1/RenderAttachedBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.rendering.data.v1.RenderAttachedBlockView)
+316,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.smooth.SmoothLightPipeline, which may cause instability."
+317,00:29:06,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus, sodiumdynamiclights] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline, which may cause instability."
+318,00:29:06,Render thread,WARN,P06_class_not_found_optional,Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+380,00:29:09,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.ShaderType, which may cause instability."
+381,00:29:09,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.GlProgram, which may cause instability."
+382,00:29:10,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.model.BakedModelEncoder, which may cause instability."
+383,00:29:10,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.CloudRenderer, which may cause instability."
+384,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+385,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+386,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+387,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+388,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+389,00:29:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+392,00:29:11,Render thread,WARN,P11_modifying_embeddium_class,"Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.region.RenderRegion$DeviceResources, which may cause instability."
+395,00:29:14,Server thread,WARN,P21_server_cant_keep_up,Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+575,00:29:33,Render thread,INFO,P22_gl_debug_error,"OpenGL debug message: id=1280, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_ENUM error generated.'"
+576,00:29:34,Render thread,INFO,P22_gl_debug_error,"OpenGL debug message: id=1280, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_ENUM error generated.'"
+581,00:29:48,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+1157,00:32:11,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+1313,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+1314,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+1315,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+1316,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+1317,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+1318,00:32:12,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+1325,00:44:21,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+1523,00:44:53,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+1702,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+1703,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+1704,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+1705,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+1706,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+1707,00:44:54,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+1722,00:44:59,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+2076,00:45:14,Server thread,WARN,P21_server_cant_keep_up,Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+2110,00:45:57,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+2268,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+2269,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+2270,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+2271,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+2272,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+2273,00:45:58,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+2491,01:04:20,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+3224,01:16:04,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+3385,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+3386,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+3387,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+3388,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+3389,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+3390,01:16:05,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+3396,01:26:49,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+3581,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+3582,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+3583,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+3584,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+3585,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+3586,01:26:50,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+4880,01:43:01,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+5032,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+5033,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+5034,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+5035,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+5036,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+5037,01:43:02,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+5043,01:43:17,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+5635,01:44:43,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+5777,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+5778,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+5779,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+5780,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+5781,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+5782,01:44:44,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+5812,01:45:54,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+6021,01:47:13,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+6161,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+6162,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+6163,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+6164,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+6165,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+6166,01:47:14,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+6223,01:47:29,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+6392,01:48:09,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+6545,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+6546,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+6547,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+6548,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+6549,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+6550,01:48:09,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+6555,01:48:21,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+6944,01:51:41,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+7111,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+7112,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+7113,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+7114,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+7115,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+7116,01:51:42,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+7121,01:51:57,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+7360,01:52:10,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+7497,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+7498,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+7499,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+7500,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+7501,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+7502,01:52:10,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+7507,01:52:18,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+7724,01:53:10,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+7881,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+7882,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+7883,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+7884,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+7885,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+7886,01:53:11,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+7891,01:53:23,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+8340,01:54:16,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+8444,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+8445,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+8446,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+8447,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+8448,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+8449,01:54:16,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+8450,01:54:20,Server thread,WARN,P21_server_cant_keep_up,Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+8455,01:54:25,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+8707,01:54:27,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+8829,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+8830,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+8831,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+8832,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+8833,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+8834,01:54:28,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+8839,01:54:41,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+9276,01:55:25,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+9392,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+9393,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+9394,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+9395,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+9396,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+9397,01:55:26,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+9433,01:55:33,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+9587,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+9588,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+9589,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+9590,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+9591,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+9592,01:55:33,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+10136,01:57:18,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+10142,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+10143,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ProjMat in the specified shader program.
+10144,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named ColorModulator in the specified shader program.
+10145,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogStart in the specified shader program.
+10146,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogEnd in the specified shader program.
+10147,01:57:19,Render thread,WARN,P20_clouds_shader_uniform,Shader clouds could not find uniform named FogColor in the specified shader program.
+10152,01:57:39,Render thread,WARN,P17_patcher_gl_fragcolor,"[Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]..."
+10516,01:57:49,Server thread,WARN,P21_server_cant_keep_up,Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
